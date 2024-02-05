@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/@swadheenprusty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@swadheenprusty" height="30" width="40" /></a>
 <a href="https://instagram.com/swadheenprusty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swadheenprusty" height="30" width="40" /></a>
-<a href="[https://www.hackerrank.com/@swadheenrinku](https://www.hackerrank.com/profile/swadheenrinku)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@swadheenrinku" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/swadheenrinku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@swadheenrinku" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swadheen26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swadheen26" height="30" width="40" /></a>
 </p>
 
