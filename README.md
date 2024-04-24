@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swadheen Prusty</h1>
 <h3 align="center">I'm an</h3>
 <div align=center>
- <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Aspiring+Full-stack+Developer;Problem+Solver;Algorithm+Developer;Open-Source+Enthusiast" alt="Headline" />
+ <img src="https://readme-typing-svg.herokuapp.com?color=%0700&size=32&center=true&vCenter=true&width=600&height=50&lines=Aspiring+Full-stack+Developer;Problem+Solver;Algorithm+Developer;Open-Source+Enthusiast" alt="Headline" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swadheen26&label=Profile%20views&color=0e75b6&style=flat" alt="swadheen26" /> </p>
