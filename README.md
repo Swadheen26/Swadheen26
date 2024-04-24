@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Swadheenrinku@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Oa-Gitz6oGtSo4-mXgyYyPt9M2YXryXW/view?usp=sharing](https://drive.google.com/file/d/1Oa-Gitz6oGtSo4-mXgyYyPt9M2YXryXW/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Oa-Gitz6oGtSo4-mXgyYyPt9M2YXryXW/view?usp=sharing](https://drive.google.com/file/d/17fo-Jcob5VRM2HcXrsx6BoHIq_B22rTy/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
