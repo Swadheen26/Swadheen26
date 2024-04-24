@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swadheen Prusty</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">I'm an</h3>
+<div align=center>
+ <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Aspiring+Full-stack+Developer;Problem+Solver;Algorithm+Developer;Open-Source+Enthusiast" alt="Headline" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swadheen26&label=Profile%20views&color=0e75b6&style=flat" alt="swadheen26" /> </p>
 
@@ -12,17 +15,15 @@
 
 💬  Ask me about **Python**, **HTML** & **CSS**.
 
-✌️  Enjoy to do programming and sharing knowledge.
+✌️  Enjoy doing programming and sharing knowledge.
 
-❤️  Love to writing code and learning new features.
+❤️  Love to write code and learn new features.
 
 📫  Reach to me **Swadheenrinku@gmail.com** <br><br>
 
 <a href="https://drive.google.com/file/d/17fo-Jcob5VRM2HcXrsx6BoHIq_B22rTy/view?usp=drive_link" target="_blank"><img alt="Resume_link" title="My Resume" src="https://img.shields.io/badge/-Resume-100FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 
-<!-- <a href="https://drive.google.com/file/d/17fo-Jcob5VRM2HcXrsx6BoHIq_B22rTy/view?usp=drive_link">LINK TO MY RESUME</a>
 
-<!-- [https://drive.google.com/file/d/1Oa-Gitz6oGtSo4-mXgyYyPt9M2YXryXW/view?usp=sharing](https://drive.google.com/file/d/17fo-Jcob5VRM2HcXrsx6BoHIq_B22rTy/view?usp=drive_link) -->
 <br><br>
 
 
@@ -64,9 +65,10 @@
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black)
 
 <br>
-<h1>Connect with me</h1>
+<h1 align="center">🤝🏻  Connect with me</h1>
 
-<p align="left">
+<p align="center">
+<a href="https://linkedin.com/in/swadheen-prusty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swadheen-prusty" height="30" width="40" /></a>
 <a href="https://twitter.com/@swadheenprusty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@swadheenprusty" height="30" width="40" /></a>
 <a href="https://instagram.com/swadheenprusty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swadheenprusty" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/swadheenrinku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@swadheenrinku" height="30" width="40" /></a>
@@ -74,7 +76,7 @@
 </p>
 <br>
 
- <h1>⚙️ GitHub Analytics </h1>
+ <h1 align="center">⚙️ GitHub Analytics </h1>
  
 <div display="flex" flex-direction="row" align="center">
 
