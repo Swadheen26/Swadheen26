@@ -3,13 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swadheen26&label=Profile%20views&color=0e75b6&style=flat" alt="swadheen26" /> </p>
 
-- 🌱 I’m currently learning **DSA**
+# About me
+ 
+<p>
+ <img align="right" width="300" height="200" src="https://raw.githubusercontent.com/alsiam/alsiam/main/assets/programmer.gif" alt="Coding gif" />
+  
+🌱  I’m currently learning **DSA** & **Web development**.
 
-- 💬 Ask me about **Python**
+💬  Ask me about **Python**, **HTML** & **CSS**.
 
-- 📫 How to reach me **Swadheenrinku@gmail.com**
+✌️  Enjoy to do programming and sharing knowledge.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Oa-Gitz6oGtSo4-mXgyYyPt9M2YXryXW/view?usp=sharing](https://drive.google.com/file/d/17fo-Jcob5VRM2HcXrsx6BoHIq_B22rTy/view?usp=drive_link)
+❤️  Love to writing code and learning new features.
+
+📫  How to reach me **Swadheenrinku@gmail.com** <br><br>
+
+📄  Know about my experiences [https://drive.google.com/file/d/1Oa-Gitz6oGtSo4-mXgyYyPt9M2YXryXW/view?usp=sharing](https://drive.google.com/file/d/17fo-Jcob5VRM2HcXrsx6BoHIq_B22rTy/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 
