@@ -90,8 +90,4 @@
 </p>
 
 
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swadheen26&show_icons=true&locale=en" alt="swadheen26" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swadheen26&" alt="swadheen26" /></p>
--->
