@@ -63,8 +63,13 @@
 
  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black)
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black)
+ <br>
 
+<h1>🗃 Databases</h1>
+
+![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=black)
 <br>
+
 <h1 align="center">🤝🏻  Connect with me</h1>
 
 <p align="center">
