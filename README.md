@@ -21,7 +21,7 @@
 
 📫  Reach to me **Swadheenrinku@gmail.com** <br><br>
 
-<a href="https://drive.google.com/file/d/17fo-Jcob5VRM2HcXrsx6BoHIq_B22rTy/view?usp=drive_link" target="_blank"><img alt="Resume_link" title="My Resume" src="https://img.shields.io/badge/-Resume-981E32?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/17fo-Jcob5VRM2HcXrsx6BoHIq_B22rTy/view?usp=drive_link" target="blank"><img alt="Resume_link" title="My Resume" src="https://img.shields.io/badge/-Resume-981E32?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 
 
 <br><br>
