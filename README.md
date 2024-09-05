@@ -11,13 +11,7 @@
 <p>
  <img align="right" width="300" height="200" src="https://raw.githubusercontent.com/alsiam/alsiam/main/assets/programmer.gif" alt="Coding gif" />
   
-🌱  I’m currently learning **DSA** & **Web development**.
-
-💬  Ask me about **Python**, **HTML** & **CSS**.
-
-✌️  Enjoy doing programming and sharing knowledge.
-
-❤️  Love to write code and learn new features.
+I'm currently learning Data Structures and Algorithms (DSA) and Web Development. I enjoy programming, especially in Python, HTML, CSS  and JavaScript and love sharing knowledge with others. Writing code and exploring new features excites me, and I’m always eager to learn and grow as a developer.
 
 📫  Reach to me **Swadheenrinku@gmail.com** <br><br>
 
